@@ -8,7 +8,7 @@
 
 # Preview
 
-![](./demo.gif)
+![](https://raw.githubusercontent.com/huchase/tetris/main/demo.gif)
 
 # Usage
 
